@@ -1,0 +1,18 @@
+{
+    "name": "sichev/ir-rnd-lib",
+    "description": "Library to generate a random combination of track and car for an iRacing",
+    "type": "library",
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sichev\\IrRndLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sichev"
+        }
+    ]
+}
