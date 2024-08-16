@@ -1,0 +1,4485 @@
+{
+  "cars": [
+    {
+      "type": "Prototypes",
+      "name": "Acura ARX-06 GTP",
+      "group": "GTP",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "ARCA Menards Chevrolet Impala",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Gen 4 Cup",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Superspeedway Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Aston Martin DBR9 GT1",
+      "group": "Proto-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Aston Martin Vantage GT4",
+      "group": "GT4",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Audi 90 GTO",
+      "group": "Kamel-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Audi R18",
+      "group": "LMP1",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Audi R8 LMS EVO II GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Audi RS 3 LMS TCR",
+      "group": "TCR",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Rallycross",
+        "Dirt Road"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "BMW M Hybrid V8",
+      "group": "GTP",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "BMW M4 GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "BMW M4 GT4",
+      "group": "GT4",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "BMW M8 GTE",
+      "group": "GTE",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Cadillac CTS-V",
+      "group": "Global-GT",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Cadillac V-Series.R GTP",
+      "group": "GTP",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Chevrolet Corvette C6.R GT1",
+      "group": "Proto-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Chevrolet Corvette C7 Daytona Prototype",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Chevrolet Corvette C8.R GTE",
+      "group": "GTE",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Chevrolet Corvette Z06 GT3.R",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Dallara F3",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Dallara iR-01",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Dallara IR18",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Dallara P217",
+      "group": "LMP2",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt 358 Modified",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Big Block Modified",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Late Model - Super",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Late Model - Pro",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Late Model - Limited",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Outlaw Micro Sprint Car - Non-Winged",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Outlaw Micro Sprint Car - Winged",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ],
+      "modifications": []
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Micro Sprint Car - Non-Winged",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Micro Sprint Car - Winged",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Midget",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Sprint Car - 410",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Sprint Car - 360",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Sprint Car - 305",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Sprint Car - 410 Non-Winged",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Sprint Car - 360 Non-Winged",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Street Stock",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+        "Rallycross",
+        "Dirt Road"
+      ],
+      "modifications": []
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt UMP Modified",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ferrari 296 GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ferrari 488 GT3 Evo 2020",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "modifications": []
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ferrari 488 GTE",
+      "group": "GTE",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "FIA F4",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Rallycross",
+      "name": "Ford Fiesta RS WRC",
+      "group": "IRX",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Road",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ford GT GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ford GT GT2",
+      "group": "Proto-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ford GTE",
+      "group": "GTE",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ford Mustang FR500S",
+      "group": "Production",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ford Mustang GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Formula Renault 2.0",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "modifications": []
+    },
+    {
+      "type": "Formula Car",
+      "name": "Formula Renault 3.5",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Formula Vee",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Global Mazda MX-5 Cup",
+      "group": "Production",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Honda Civic Type R TCR",
+      "group": "TCR",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Rallycross",
+        "Dirt Road"
+      ],
+      "modifications": []
+    },
+    {
+      "type": "Prototypes",
+      "name": "HPD ARX-01c",
+      "group": "Proto-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Hyundai Elantra N TCR",
+      "group": "TCR",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Rallycross",
+        "Dirt Road"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Hyundai Veloster N TCR",
+      "group": "TCR",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Rallycross",
+        "Dirt Road"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Indy Pro 2000 PM-18",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Kia Optima",
+      "group": "Global-GT",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Lamborghini Huracán GT3 EVO",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Late Model Stock",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Dirt Oval",
+      "name": "Dirt Legends Ford '34 Coupe",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval",
+        "Rallycross",
+        "Dirt Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Legends Ford ’34 Coupe",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Legends Ford ’34 Coupe - Rookie",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Ligier JS P320",
+      "group": "LMP3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Lotus 49",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Lotus 79",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Off-Road",
+      "name": "Lucas Oil Off Road Pro 2 Lite",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Off-Road",
+      "name": "Lucas Oil Off Road Pro 4 Truck",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Off-Road",
+      "name": "Lucas Oil Off Road Pro 2 Truck",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Oval",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "McLaren 570S GT4",
+      "group": "GT4",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "McLaren MP4-12C GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "McLaren MP4-30",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Mercedes-AMG GT3 2020",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Mercedes-AMG GT4",
+      "group": "GT4",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Mercedes-AMG W12 E Performance",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Mercedes-AMG W13 E Performance",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Chevrolet Camaro ZL1",
+      "group": "NASCAR Cup Series",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Ford Mustang",
+      "group": "NASCAR Cup Series",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Next Gen Chevrolet Camaro ZL1",
+      "group": "NASCAR Cup Series Next Gen",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Next Gen Ford Mustang",
+      "group": "NASCAR Cup Series Next Gen",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Next Gen Toyota Camry",
+      "group": "NASCAR Cup Series Next Gen",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Cup Series Toyota Camry",
+      "group": "NASCAR Cup Series",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Legends Buick LeSabre - 1987",
+      "group": "Legends-87",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Legends Chevrolet Monte Carlo - 1987",
+      "group": "Legends-87",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Legends Ford Thunderbird - 1987",
+      "group": "Legends-87",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Legends Pontiac Grand Prix - 1987",
+      "group": "Legends-87",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Truck Chevrolet Silverado",
+      "group": "NASCAR Truck",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Truck Ford F150",
+      "group": "NASCAR Truck",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Truck Toyota Tundra TRD Pro",
+      "group": "NASCAR Truck",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Modified - NASCAR Whelen Tour",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Modified - SK",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR XFINITY Chevrolet Camaro",
+      "group": "XFINITY",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR XFINITY Ford Mustang",
+      "group": "XFINITY",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR XFINITY Toyota Supra",
+      "group": "XFINITY",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Nissan GTP ZX-T",
+      "group": "Kamel-GT",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Pontiac Solstice",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Slow Road",
+        "Fast Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Pontiac Solstice - Rookie",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Slow Road",
+        "Fast Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Porsche 718 Cayman GT4 Clubsport MR",
+      "group": "GT4",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Porsche 911 GT3 Cup (992)",
+      "group": "GT3-Cup",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Porsche 911 GT3 R (992)",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Porsche 911 RSR",
+      "group": "GTE",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Porsche 919",
+      "group": "LMP1",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Porsche 963 GTP",
+      "group": "GTP",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Porsche Mission R",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Radical SR10",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "Radical SR8 V8",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Ray FF1600",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Renault Clio",
+      "group": "Production",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ruf RT 12R AWD",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ruf RT 12R RWD",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ruf RT 12R Track",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Ruf RT 12R C-Spec",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "SCCA Spec Racer Ford",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Silver Crown",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Skip Barber Formula 2000",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Short Oval",
+        "Legends Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Sprint Car",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Long Oval",
+        "Short Oval",
+        "Legends Oval"
+      ],
+      "unusualConfigs": [
+        "Slow Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "SRX",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Short Oval",
+        "Legends Oval",
+        "Dirt Oval"
+      ],
+      "unusualConfigs": [
+        "Slow Road",
+        "Rallycross",
+        "Dirt Road"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Stock Car Brazil Chevrolet Cruze",
+      "group": "Stock Car Brazil",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Slow Road",
+        "Long Oval",
+        "Short Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Stock Car Brazil Toyota Corolla",
+      "group": "Stock Car Brazil",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Slow Road",
+        "Long Oval",
+        "Short Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Street Stock - Casino M2",
+      "group": "Street Stock",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Short Oval",
+        "Long Oval",
+        "Legends Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Street Stock - Eagle T3",
+      "group": "Street Stock",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Short Oval",
+        "Long Oval",
+        "Legends Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Street Stock - Panther C1",
+      "group": "Street Stock",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Short Oval",
+        "Long Oval",
+        "Legends Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "Rallycross",
+      "name": "Subaru WRX STI",
+      "group": "IRX",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Dirt Road",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Super Formula Lights",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Super Formula SF23 - Honda",
+      "group": "Super Formula SF23",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Super Formula SF23 - Toyota",
+      "group": "Super Formula SF23",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "Super Late Model",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Short Oval",
+        "Legends Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Supercars Ford Mustang GT",
+      "group": "Supercars",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Supercars Holden ZB Commodore",
+      "group": "Supercars",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Toyota GR86",
+      "group": "Production",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "USF 2000",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Rallycross",
+      "name": "VW Beetle",
+      "group": "IRX",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Dirt Road",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval",
+        "Legends Oval"
+      ]
+    },
+    {
+      "type": "Rallycross",
+      "name": "VW Beetle - Lite",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Dirt Road",
+        "Rallycross"
+      ],
+      "unusualConfigs": [
+        "Medium Road",
+        "Slow Road",
+        "Long Oval",
+        "Short Oval",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "Volkswagen Jetta TDi",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "Williams-Toyota FW31",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Audi R8 LMS GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] BMW Z4 GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "[Legacy] Dallara DW12",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "[Legacy] Dallara IR-05",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Superspeedway Oval",
+        "Long Oval"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Ferrari 488 GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Mazda MX-5 Roadster - 2010",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Medium Road",
+        "Fast Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Mazda MX-5 Cup - 2010",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Long Oval",
+        "Short Oval",
+        "Rallycross",
+        "Dirt Road",
+        "Dirt Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Mercedes-AMG GT3",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Cup Chevrolet Impala COT - 2009",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Cup Chevrolet SS - 2013",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Cup Ford Fusion - 2016",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Nationwide Chevrolet Impala - 2012",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "NASCAR Truck Chevrolet Silverado – 2008",
+      "group": null,
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval"
+      ],
+      "unusualConfigs": [
+        "Fast Road",
+        "Medium Road"
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Xfinity Chevrolet Camaro - 2014",
+      "group": "[Legacy] NASCAR Xfinity",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Xfinity Ford Mustang - 2016",
+      "group": "[Legacy] NASCAR Xfinity",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "NASCAR",
+      "name": "[Legacy] NASCAR Xfinity Toyota Camry - 2015",
+      "group": "[Legacy] NASCAR Xfinity",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Superspeedway Oval",
+        "Long Oval",
+        "Short Oval",
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Porsche 911 GT3 Cup (991)",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] Porsche 911 GT3 R",
+      "group": "GT3",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Formula Car",
+      "name": "[Legacy] Pro Mazda",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road",
+        "Slow Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Prototypes",
+      "name": "[Legacy] Riley MkXX Daytona Prototype - 2008",
+      "group": null,
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] V8 Supercar Ford Falcon - 2009",
+      "group": "[Legacy] V8 Supercar",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] V8 Supercar Ford FG Falcon - 2014",
+      "group": "[Legacy] V8 Supercar",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    },
+    {
+      "type": "Sports Car",
+      "name": "[Legacy] V8 Supercar Holden VF Commodore - 2014",
+      "group": "[Legacy] V8 Supercar",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": true,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval",
+        "Long Oval"
+      ]
+    }
+  ],
+  "tracks": [
+    {
+      "name": "Algarve International Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Grand Prix - Chicanes", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"},
+        {"name": "Moto - Chicanes", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Atlanta Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road - 2008", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Legends Oval - 2008", "type": "Legends Oval"},
+        {"name": "Oval - 2008", "type": "Long Oval"},
+        {"name": "Rallycross Short", "type": "Rallycross"},
+        {"name": "Rallycross Long", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "Auto Club Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Competition", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"},
+        {"name": "Interior", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Autodromo Internazionale del Mugello",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Short", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Autodromo Internazionale Enzo e Dino Ferrari",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Autódromo José Carlos Pace",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Medium Road", "nascarRoad": true},
+        {"name": "Moto", "type": "Medium Road", "nascarRoad": true}
+      ]
+    },
+    {
+      "name": "Autodromo Nazionale Monza",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "GP without first chicane", "type": "Fast Road"},
+        {"name": "GP without chicanes", "type": "Fast Road"},
+        {"name": "Combined", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Combined without first chicane", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Combined without chicanes", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Junior", "type": "Medium Road"},
+        {"name": "Oval - Right turning", "type": "Superspeedway Oval"},
+        {"name": "Oval - Left turning", "type": "Superspeedway Oval"}
+      ]
+    },
+    {
+      "name": "Barber Motorsports Park",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "Short A", "type": "Medium Road"},
+        {"name": "Short B", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Bark River International Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt Road", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Brands Hatch Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Grand Prix", "type": "Medium Road"},
+        {"name": "Rallycross", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "Bristol Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dual Pit Roads", "type": "Short Oval"},
+        {"name": "Single Pit Roads", "type": "Short Oval"},
+        {"name": "Dirt", "type": "Dirt Oval"},
+        {"name": "Dirt - 2021", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Canadian Tire Motorsports Park",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road", "nascarRoad": true}
+      ]
+    },
+    {
+      "name": "Cedar Lake Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Centripetal Circuit",
+      "included": true,
+      "disabled": true,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "Charlotte Motor Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        {"name": "Roval", "type": "Fast Road"},
+        {"name": "Rallycross", "type": "Rallycross"},
+        {"name": "Oval - 2018", "type": "Long Oval"},
+        {"name": "Roval - 2018", "type": "Fast Road"},
+        {"name": "Roval Long - 2018", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Legends Oval - 2018", "type": "Legends Oval"},
+        {"name": "Legends RC Short - 2018", "type": "Rallycross"},
+        {"name": "Legends RC Medium - 2018", "type":  "Rallycross"},
+        {"name": "Legends RC Long - 2018", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "Chicago Street Course",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Prototype", "type": "Fast Road", "nascarRoad": true},
+        {"name": "2023 Cup", "type": "Fast Road", "nascarRoad": true}
+      ]
+    },
+    {
+      "name": "Chicagoland Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Chili Bowl",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Circuit de Barcelona Catalunya",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Rallycross", "type": "Rallycross"},
+        {"name": "National", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"},
+        {"name": "Historic", "type": "Fast Road"},
+        {"name": "Club", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Circuit de Lédenon",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Circuit de Nevers Magny-Cours",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Circuit de Spa-Francorchamps",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        {"name": "Endurance", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Classic Pits", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Grand Prix Pits", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Circuit des 24 Heures du Mans",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "24 Heures du Mans", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Historic", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Circuit Gilles Villeneuve",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road", "nascarRoad": true}
+      ]
+    },
+    {
+      "name": "Circuit of the Americas",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road", "veryLongStraights": true, "nascarRoad": true},
+        {"name": "East", "type": "Medium Road"},
+        {"name": "West", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Circuit Zandvoort",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Nationaal", "type": "Fast Road"},
+        {"name": "Grand Prix w/chicane", "type": "Fast Road"},
+        {"name": "Oostelijk", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Grand Prix - 2009", "type": "Fast Road"},
+        {"name": "Nationaal - 2009", "type": "Fast Road"},
+        {"name": "Chicane - 2009", "type": "Fast Road"},
+        {"name": "Oostelijk - 2009", "type": "Slow Road", "needTestDrive": true},
+        {"name": "Club - 2009", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Circuit Zolder",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Alternate", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Circuito de Jerez - Ángel Nieto",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Circuito de Navarra",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Speed Circuit", "type": "Fast Road"},
+        {"name": "Speed Circuit - Medium", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Speed Circuit - Short", "type": "Slow Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Concord Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Crandon International Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full", "type": "Dirt Road"},
+        {"name": "Short", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Darlington Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Daytona International Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Superspeedway Oval"},
+        {"name": "Road Course", "type": "Fast Road", "nascarRoad": true},
+        {"name": "NASCAR Road", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Moto", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Short", "type": "Slow Road"},
+        {"name": "Oval - 2008", "type": "Superspeedway Oval"},
+        {"name": "Road Course - 2008", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Moto - 2008", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Short - 2008", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Daytona Rallycross and Dirt Road",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Rallycross Long", "type": "Rallycross"},
+        {"name": "Rallycross Short", "type": "Rallycross"},
+        {"name": "Dirt Road Long", "type": "Dirt Road"},
+        {"name": "Dirt Road Short", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Detroit Grand Prix at Belle Isle",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road", "nascarRoad": true}
+      ]
+    },
+    {
+      "name": "Donington Park Racing Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "National", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Dover Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Eldora Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Fairbury Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Federated Auto Parts Raceway at I-55",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Firebird Motorsports Park",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Five Flags Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Fuji International Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "No Chicane", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Hickory Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Hockenheimring Baden-Württemberg",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "National A", "type": "Fast Road"},
+        {"name": "National B", "type": "Fast Road"},
+        {"name": "Short A", "type": "Medium Road"},
+        {"name": "Short B", "type": "Medium Road"},
+        {"name": "Outer", "type": "Fast Road"},
+        {"name": "Porsche Experience Center - East", "type": "Slow Road"},
+        {"name": "Porsche Experience Center - Outer", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Porsche Experience Center - West", "type": "Slow Road"},
+        {"name": "Porsche Experience Center - Handling", "type": "Medium Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Homestead Miami Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course A", "type": "Fast Road"},
+        {"name": "Road Course B", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Open Wheel Oval", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Hungaroring",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Indianapolis Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Open Wheel Oval", "type": "Long Oval"},
+        {"name": "NASCAR Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Open Wheel Oval - 2009", "type": "Long Oval"},
+        {"name": "NASCAR Oval - 2009", "type": "Long Oval"},
+        {"name": "Road Course - 2009", "type": "Fast Road", "nascarRoad": true},
+        {"name": "Bike - 2009", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Iowa Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Legends", "type": "Legends Oval"},
+        {"name": "Infield Legends", "type": "Short Oval", "needTestDrive": true},
+        {"name": "Rallycross", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "iRacing Superspeedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Superspeedway Oval", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Irwindale Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Figure Eight Jump", "type": "Slow Road"},
+        {"name": "Outer", "type": "Short Oval"},
+        {"name": "Inner", "type": "Short Oval"},
+        {"name": "Outer - Inner", "type": "Short Oval"},
+        {"name": "Figure Eight Jump", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Kansas Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Road Course", "type": "Slow Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Kentucky Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Kevin Harvick's Kern Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt Track", "type": "Short Oval"},
+        {"name": "Dirt Track", "type": "Dirt Oval"},
+        {"name": "Legends", "type": "Legends Oval"},
+        {"name": "Dirt Mini Oval", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Knockhill Racing Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "International", "type": "Medium Road"},
+        {"name": "International Reverse", "type": "Medium Road"},
+        {"name": "National", "type": "Medium Road"},
+        {"name": "National Reverse", "type": "Medium Road"},
+        {"name": "Rallycross", "type": "Rallycross"},
+        {"name": "Tri-Oval", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Knoxville Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Kokomo Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Tires in", "type": "Dirt Road"},
+        {"name": "Tires out", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "LA Coliseum Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Langley Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Lanier National Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"},
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Lånkebanen (Hell RX)",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Hell Rallycross", "type": "Rallycross"},
+        {"name": "Club", "type": "Dirt Road"},
+        {"name": "Rallycross Short", "type": "Rallycross"},
+        {"name": "Road Short", "type": "Dirt Road"},
+        {"name": "Road Long", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Las Vegas Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Legends Oval", "type": "Legends Oval"},
+        {"name": "Road Course Combined", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Road Course Long", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Road Course Short", "type": "Slow Road"},
+        {"name": "Infield Legends Oval", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "Lernerville Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Limaland Motorsports Park",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Lime Rock Park",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Medium Road"},
+        {"name": "Classic", "type": "Fast Road"},
+        {"name": "Chicanes", "type": "Medium Road"},
+        {"name": "West Bend Chicane", "type": "Fast Road"},
+        {"name": "School", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Lincoln Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Long Beach Street Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Lucas Oil Indianapolis Raceway Park",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Rallycross", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "Lucas Oil Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Martinsville Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Michigan International Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Mid-Ohio Sports Car Course",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "Chicane", "type": "Fast Road"},
+        {"name": "Short", "type": "Medium Road"},
+        {"name": "Oval", "type": "Slow Road"},
+        {"name": "Alt Oval", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Millbridge Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Misano World Circuit Marco Simoncelli",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Grand Prix - 2007", "type": "Fast Road"},
+        {"name": "Grand Prix - Historic Reverse", "type": "Fast Road"},
+        {"name": "Club", "type": "Slow Road"},
+        {"name": "Truck", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Mobility Resort Motegi",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "East", "type": "Fast Road"},
+        {"name": "West", "type": "Slow Road"},
+        {"name": "Oval", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "MotorLand Aragón",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "National", "type": "Medium Road", "needTestDrive": true},
+        {"name": "West", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Motorcycle Grand Prix", "type": "Fast Road"},
+        {"name": "Motorcycle National", "type": "Medium Road"},
+        {"name": "Outer", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Touring Car", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Motorsport Arena Oschersleben",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Alternate", "type": "Fast Road"},
+        {"name": "B Course", "type": "Fast Road"},
+        {"name": "C Course", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Mount Panorama Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Mount Washington Hillclimb",
+      "included": false,
+      "disabled": true,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Hillclimb", "type": "Fast Road"},
+        {"name": "Descent", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Myrtle Beach Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Nashville Fairgrounds Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Short Oval"},
+        {"name": "Mini", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "Nashville Superspeedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "New Hampshire Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road"},
+        {"name": "Road Course with South Oval", "type": "Fast Road", "veryLongStraights": true, "needTestDrive": true},
+        {"name": "Road Course with North Oval", "type": "Fast Road", "veryLongStraights": true, "needTestDrive": true},
+        {"name": "Legends", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "New Jersey Motorsports Park",
+      "included": false,
+      "disabled": true,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Thunderbolt", "type": "Fast Road"},
+        {"name": "Thunderbolt w/both chicanes", "type": "Fast Road"},
+        {"name": "Thunderbolt w/first chicane", "type": "Fast Road"},
+        {"name": "Thunderbolt w/second chicane", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "New Smyrna Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "North Wilkesboro Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Nürburgring Combined",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Gesamtstrecke Short w/out Arena", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Gesamtstrecke 24h", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Gesamtstrecke VLN", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Gesamtstrecke Long", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Nürburgring Grand-Prix-Strecke",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix w/out Arena", "type": "Fast Road"},
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "BES/WEC", "type": "Fast Road"},
+        {"name": "Sprintstrecke", "type": "Fast Road"},
+        {"name": "Kurzanbindung w/out Arena", "type": "Fast Road"},
+        {"name": "Müllenbachschleife", "type": "Slow Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Nürburgring Nordschleife",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Industriefahrten", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Touristenfahrten", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Okayama International Circuit",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "Short", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Oran Park Raceway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "South", "type": "Medium Road", "needTestDrive": true},
+        {"name": "North", "type": "Medium Road"},
+        {"name": "North A", "type": "Slow Road"},
+        {"name": "North B", "type": "Slow Road"},
+        {"name": "Moto", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Oswego Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Short Oval"},
+        {"name": "Mini Oval", "type": "Short Oval"},
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Oulton Park Circuit",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "International", "type": "Fast Road"},
+        {"name": "Fosters", "type": "Fast Road"},
+        {"name": "Island", "type": "Fast Road"},
+        {"name": "Intl w/out Hislop", "type": "Fast Road"},
+        {"name": "Intl w/out Brittens", "type": "Fast Road"},
+        {"name": "Intl w/no Chicanes", "type": "Fast Road"},
+        {"name": "Fosters w/Hislop", "type": "Fast Road"},
+        {"name": "Island Historic", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Oxford Plains Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Phillip Island Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Phoenix Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval w/open dogleg", "type": "Long Oval"},
+        {"name": "Oval", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Pocono Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Port Royal Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "Red Bull Ring",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "National", "type": "Medium Road"},
+        {"name": "North", "type": "Medium Road"}
+      ]
+    },
+    {
+      "name": "Richmond Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Road America",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "Bend", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Road Atlanta",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Club", "type": "Fast Road"},
+        {"name": "Short", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Rockingham Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Infield Road Course", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Short Road Course", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Rudskogen Motorsenter",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Sachsenring",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Sandown International Motor Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road", "veryLongStraights": true, "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Sebring International Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "International", "type": "Fast Road"},
+        {"name": "Club", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Modified", "type": "Fast Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Silverstone Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "International", "type": "Fast Road"},
+        {"name": "National", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Slinger Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Short Oval", "needTestDrive": true},
+        {"name": "Figure 8", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "Snetterton Circuit",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "100", "type": "Slow Road", "needTestDrive": true},
+        {"name": "200", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "300", "type": "Fast Road", "veryLongStraights": true, "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Sonoma Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Open Wheel 2012-2018", "type": "Fast Road"},
+        {"name": "Open Wheel 2008-2011", "type": "Fast Road"},
+        {"name": "NASCAR Short", "type": "Fast Road"},
+        {"name": "NASCAR Long", "type": "Fast Road"},
+        {"name": "Open Wheel pre-2008", "type": "Fast Road"},
+        {"name": "Rallycross", "type": "Rallycross"}
+      ]
+    },
+    {
+      "name": "South Boston Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Southern National Motorsports Park",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Stafford Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Summit Point Raceway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Summit Point Raceway", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Jefferson Circuit", "type": "Medium Road"},
+        {"name": "Short", "type": "Fast Road", "needTestDrive": true},
+        {"name": "Jefferson Reverse", "type": "Medium Road"},
+        {"name": "School", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Suzuka International Racing Course",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Moto", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "East", "type": "Medium Road"},
+        {"name": "West", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "West w/chicane", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "Talladega Superspeedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Superspeedway Oval"}
+      ]
+    },
+    {
+      "name": "Texas Motor Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Legends Oval", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "The Bullring",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "The Dirt Track at Charlotte",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "The Milwaukee Mile",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "Thompson Speedway Motorsports Park",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"}
+      ]
+    },
+    {
+      "name": "Tsukuba Circuit",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "2000 Full", "type": "Fast Road", "needTestDrive": true},
+        {"name": "2000 Moto", "type": "Fast Road", "needTestDrive": true},
+        {"name": "2000 Short", "type": "Medium Road"},
+        {"name": "1000 Full", "type": "Slow Road"},
+        {"name": "1000 Outer", "type": "Medium Road"},
+        {"name": "1000 Chicane", "type": "Slow Road"},
+        {"name": "1000 Full Reverse", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "USA International Speedway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Short Oval"},
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Virginia International Raceway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "North Course", "type": "Fast Road"},
+        {"name": "South Course", "type": "Medium Road"},
+        {"name": "Grand Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Patriot Course", "type": "Slow Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Volusia Speedway Park",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Watkins Glen International",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Cup", "type": "Fast Road"},
+        {"name": "Boot", "type": "Fast Road"},
+        {"name": "Classic Boot", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Classic", "type": "Fast Road", "veryLongStraights": true}
+      ]
+    },
+    {
+      "name": "WeatherTech Raceway at Laguna Seca",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "School", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Weedsport Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Wild West Motorsports Park",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Rallycross", "type": "Dirt Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "Williams Grove Speedway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Dirt", "type": "Dirt Oval"}
+      ]
+    },
+    {
+      "name": "Willow Springs International Raceway",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "Winton Motor Raceway",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "National Circuit", "type": "Slow Road"},
+        {"name": "Club Circuit", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "World Wide Technology Raceway (Gateway)",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "[Legacy] Charlotte Motor Speedway - 2008",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Legends Oval", "type": "Legends Oval"},
+        {"name": "Infield Road Course", "type": "Slow Road"}
+      ]
+    },
+    {
+      "name": "[Legacy] Kentucky Speedway - 2011",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Legends", "type": "Legends Oval"}
+      ]
+    },
+    {
+      "name": "[Legacy] Lime Rock Park - 2008",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Full Course", "type": "Fast Road"},
+        {"name": "Chicane", "type": "Fast Road"},
+        {"name": "School", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "[Legacy] Michigan International Speedway - 2009",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Asphalt", "type": "Long Oval"}
+      ]
+    },
+    {
+      "name": "[Legacy] Phoenix Raceway - 2008",
+      "included": true,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Road Course", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Rallycross", "type": "Rallycross"},
+        {"name": "Dirt Road", "type": "Dirt Road"}
+      ]
+    },
+    {
+      "name": "[Legacy] Pocono Raceway - 2009",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "International", "type": "Fast Road", "veryLongStraights": true, "needTestDrive": true},
+        {"name": "East", "type": "Medium Road", "needTestDrive": true},
+        {"name": "South", "type": "Medium Road", "needTestDrive": true},
+        {"name": "North", "type": "Medium Road", "needTestDrive": true}
+      ]
+    },
+    {
+      "name": "[Legacy] Silverstone Circuit - 2008",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Historical Grand Prix", "type": "Fast Road"},
+        {"name": "International", "type": "Fast Road"},
+        {"name": "Southern", "type": "Fast Road"},
+        {"name": "National", "type": "Fast Road"}
+      ]
+    },
+    {
+      "name": "[Legacy] Texas Motor Speedway - 2009",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Oval", "type": "Long Oval"},
+        {"name": "Legends Oval", "type": "Legends Oval"},
+        {"name": "Road Course Combined", "type": "Fast Road", "veryLongStraights": true},
+        {"name": "Road Course Long", "type": "Medium Road", "needTestDrive": true},
+        {"name": "Road Course Short A", "type": "Slow Road"},
+        {"name": "Road Course Short B", "type": "Slow Road"}
+      ]
+    }
+  ]
+}
