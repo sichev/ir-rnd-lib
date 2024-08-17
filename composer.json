@@ -2,17 +2,29 @@
     "name": "sichev/ir-rnd-lib",
     "description": "Library to generate a random combination of track and car for an iRacing",
     "type": "library",
+    "keywords": ["iracing", "random", "hosted"],
+    "license": "MIT",
     "require": {
+        "php": "^8.3",
         "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
     },
     "autoload": {
         "psr-4": {
             "Sichev\\IrRndLib\\": "src/"
         }
     },
+    "autoload-dev": {
+        "psr-4": { "Sichev\\IrRndLib\\Tests\\": "tests/" }
+    },
     "authors": [
         {
-            "name": "sichev"
+            "name": "Dmitry Sichev",
+            "email": "sichev@gmail.com",
+            "homepage": "https://github.com/sichev",
+            "role": "developer"
         }
     ]
 }
