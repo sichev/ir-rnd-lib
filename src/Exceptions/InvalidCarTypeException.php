@@ -2,9 +2,10 @@
 
 namespace Sichev\IrRndLib\Exceptions;
 
+use Exception;
 use Sichev\IrRndLib\Types;
 
-class InvalidCarTypeException extends \Exception
+class InvalidCarTypeException extends Exception
 {
     public function __construct(?string $carName)
     {
