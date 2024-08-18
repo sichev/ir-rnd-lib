@@ -2,12 +2,12 @@
 
 namespace Sichev\IrRndLib;
 
-use Sichev\IrRndLib\Exceptions\InvalidCarTypeException;
+use Sichev\IrRndLib\Exceptions\InvalidInputCarTypeException;
 
 readonly class Options
 {
     /**
-     * @throws InvalidCarTypeException
+     * @throws InvalidInputCarTypeException
      */
     public function __construct(
         public bool    $onlyIncluded = true,
@@ -16,11 +16,11 @@ readonly class Options
         public bool    $allowUnusualConfigs = false,
     ) {
         if (!in_array($car, [null, ...Types::URL_CAR_TYPES], true))
-            throw new InvalidCarTypeException($car);
+            throw new InvalidInputCarTypeException($car);
     }
 
     /**
-     * @throws InvalidCarTypeException
+     * @throws InvalidInputCarTypeException
      */
     public static function make(
         bool $onlyIncluded = true,

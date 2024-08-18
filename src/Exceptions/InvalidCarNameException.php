@@ -6,10 +6,10 @@ use Exception;
 use Sichev\IrRndLib\Car;
 use Sichev\IrRndLib\Types;
 
-class InvalidCarTypeException extends Exception
+class InvalidCarNameException extends Exception
 {
     public function __construct(?string $carType, Car $car)
     {
-        parent::__construct("Invalid car type '$carType'. Car: " . json_encode($car));
+        parent::__construct("Invalid car Name '$carType'. Car: " . json_encode($car));
     }
 }
