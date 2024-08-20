@@ -15,11 +15,11 @@ class Track
      * @throws EmptyTrackNameException
      */
     public function __construct(
-        public string $name,
-        public bool $included,
-        public bool $disabled,
-        public bool $popular,
-        public bool $legacy,
+        public readonly string $name,
+        public readonly bool $included,
+        public readonly bool $disabled,
+        public readonly bool $popular,
+        public readonly bool $legacy,
         public array $configs,
     ) {
         $this->validate();
