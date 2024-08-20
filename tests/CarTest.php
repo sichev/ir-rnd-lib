@@ -99,7 +99,7 @@ class CarTest extends TestCase
         $carData->configs = ["Long Oval", "Short Oval"];
         $carData->unusualConfigs = ["Legends Oval"];
         $car = Car::make($carData);
-        $car->setUseUnusualConfigs(true);
+        $car->setUseUnusualConfigs();
         $configs = $car->getConfigs();
 
         $this->assertcontains("Long Oval", $configs);

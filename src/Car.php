@@ -78,7 +78,7 @@ class Car
             throw new InvalidCarUnusualTrackConfigException($this->unusualConfigs, $this);
     }
 
-    public function setUseUnusualConfigs(bool $use = false): self
+    public function setUseUnusualConfigs(bool $use = true): self
     {
         $this->useUnusualConfigs = $use;
         return $this;
