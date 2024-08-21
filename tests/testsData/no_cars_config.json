@@ -1,0 +1,18 @@
+{
+  "cars": [],
+  "tracks": [
+    {
+      "name": "Algarve International Circuit",
+      "included": false,
+      "disabled": false,
+      "popular": false,
+      "legacy": false,
+      "configs": [
+        {"name": "Grand Prix", "type": "Fast Road"},
+        {"name": "Grand Prix - Chicanes", "type": "Fast Road"},
+        {"name": "Moto", "type": "Fast Road"},
+        {"name": "Moto - Chicanes", "type": "Fast Road"}
+      ]
+    }
+  ]
+}

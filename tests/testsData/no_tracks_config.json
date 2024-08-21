@@ -1,0 +1,21 @@
+{
+  "cars": [
+    {
+      "type": "Prototypes",
+      "name": "Acura ARX-06 GTP",
+      "group": "GTP",
+      "included": false,
+      "disabled": false,
+      "popular": true,
+      "legacy": false,
+      "configs": [
+        "Fast Road",
+        "Medium Road"
+      ],
+      "unusualConfigs": [
+        "Superspeedway Oval"
+      ]
+    }
+  ],
+  "tracks": []
+}
