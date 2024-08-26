@@ -2845,7 +2845,7 @@
       "name": "Auto Club Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Oval", "type": "Long Oval"},
@@ -3015,7 +3015,7 @@
       "name": "Chicagoland Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Long Oval"}
@@ -3082,7 +3082,7 @@
       "name": "Circuit des 24 Heures du Mans",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "24 Heures du Mans", "type": "Fast Road", "veryLongStraights": true},
@@ -3198,7 +3198,7 @@
       "name": "Daytona International Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Oval", "type": "Superspeedway Oval"},
@@ -3216,7 +3216,7 @@
       "name": "Daytona Rallycross and Dirt Road",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Rallycross Long", "type": "Rallycross"},
@@ -3260,7 +3260,7 @@
       "name": "Eldora Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Dirt", "type": "Dirt Oval"}
@@ -3427,7 +3427,7 @@
       "name": "Kansas Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Oval", "type": "Long Oval"},
@@ -3508,7 +3508,7 @@
       "name": "Langley Speedway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Short Oval"}
@@ -3518,7 +3518,7 @@
       "name": "Lanier National Speedway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Short Oval"},
@@ -3543,7 +3543,7 @@
       "name": "Las Vegas Motor Speedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Oval", "type": "Long Oval"},
@@ -3720,7 +3720,7 @@
       "name": "Motorsport Arena Oschersleben",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Grand Prix", "type": "Fast Road"},
@@ -3733,7 +3733,7 @@
       "name": "Mount Panorama Circuit",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Fast Road", "veryLongStraights": true}
@@ -3832,7 +3832,7 @@
       "name": "Nürburgring Combined",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Gesamtstrecke Short w/out Arena", "type": "Fast Road", "veryLongStraights": true},
@@ -3860,7 +3860,7 @@
       "name": "Nürburgring Nordschleife",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Industriefahrten", "type": "Fast Road", "veryLongStraights": true},
@@ -3871,7 +3871,7 @@
       "name": "Okayama International Circuit",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Full Course", "type": "Fast Road"},
@@ -3909,7 +3909,7 @@
       "name": "Oulton Park Circuit",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "International", "type": "Fast Road"},
@@ -3999,7 +3999,7 @@
       "name": "Road America",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Full Course", "type": "Fast Road"},
@@ -4010,7 +4010,7 @@
       "name": "Road Atlanta",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Full Course", "type": "Fast Road", "veryLongStraights": true},
@@ -4065,7 +4065,7 @@
       "name": "Sebring International Raceway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "International", "type": "Fast Road"},
@@ -4077,7 +4077,7 @@
       "name": "Silverstone Circuit",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Grand Prix", "type": "Fast Road", "veryLongStraights": true},
@@ -4127,7 +4127,7 @@
       "name": "South Boston Speedway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Short Oval"}
@@ -4137,7 +4137,7 @@
       "name": "Southern National Motorsports Park",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Short Oval"}
@@ -4157,7 +4157,7 @@
       "name": "Summit Point Raceway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Summit Point Raceway", "type": "Fast Road", "needTestDrive": true},
@@ -4171,7 +4171,7 @@
       "name": "Suzuka International Racing Course",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Grand Prix", "type": "Fast Road", "veryLongStraights": true},
@@ -4185,7 +4185,7 @@
       "name": "Talladega Superspeedway",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Superspeedway Oval"}
@@ -4216,7 +4216,7 @@
       "name": "The Dirt Track at Charlotte",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Dirt", "type": "Dirt Oval"}
@@ -4246,7 +4246,7 @@
       "name": "Tsukuba Circuit",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "2000 Full", "type": "Fast Road", "needTestDrive": true},
@@ -4262,7 +4262,7 @@
       "name": "USA International Speedway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Asphalt", "type": "Short Oval"},
@@ -4273,7 +4273,7 @@
       "name": "Virginia International Raceway",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Full Course", "type": "Fast Road", "veryLongStraights": true},
@@ -4287,7 +4287,7 @@
       "name": "Volusia Speedway Park",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Dirt", "type": "Dirt Oval"}
@@ -4297,7 +4297,7 @@
       "name": "Watkins Glen International",
       "included": false,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Cup", "type": "Fast Road"},
@@ -4310,7 +4310,7 @@
       "name": "WeatherTech Raceway at Laguna Seca",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Full Course", "type": "Fast Road"},
@@ -4331,7 +4331,7 @@
       "name": "Wild West Motorsports Park",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Rallycross", "type": "Dirt Road", "needTestDrive": true}
@@ -4429,7 +4429,7 @@
       "name": "[Legacy] Phoenix Raceway - 2008",
       "included": true,
       "disabled": false,
-      "popular": false,
+      "popular": true,
       "legacy": false,
       "configs": [
         {"name": "Oval", "type": "Long Oval"},
