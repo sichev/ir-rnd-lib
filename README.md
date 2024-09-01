@@ -10,3 +10,7 @@ At this point to release an 2024.s3 or s4 version (depending on speed of releasi
 - recheck all popular type content basing on participation stats
 - implement method which creates a list of all possible combinations by input params (for cache generation purpose)
 
+Next big version:
+
+- implement import/update data from iRacing API
+
