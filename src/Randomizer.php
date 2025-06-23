@@ -72,43 +72,37 @@ class Randomizer
     private function filterCarsByTrack(Track $track): void
     {
         $typesList = $track->getAvailableLayoutsList();
-        $this->cars = array_filter($this->cars, function ($car) use ($typesList) {
-            return array_intersect($car->getConfigs(), $typesList);
-        });
+        $this->cars = array_filter($this->cars, fn($car) => array_intersect($car->getConfigs(), $typesList));
     }
 
     private function filterContentBasedOnOptions(): void
     {
         if ($this->options->onlyIncluded) {
-            $this->tracks = array_filter($this->tracks, function ($track) { return $track->included; });
-            $this->cars = array_filter($this->cars, function ($car) { return $car->included; });
+            $this->tracks = array_filter($this->tracks, fn($track) => $track->included);
+            $this->cars = array_filter($this->cars, fn($car) => $car->included);
         }
 
         if (!$this->options->allowDisabled) {
-            $this->tracks = array_filter($this->tracks, function ($track) { return $track->disabled === false; });
-            $this->cars = array_filter($this->cars, function ($car) { return $car->disabled == false; });
+            $this->tracks = array_filter($this->tracks, fn($track) => $track->disabled === false);
+            $this->cars = array_filter($this->cars, fn($car) => $car->disabled == false);
         }
 
         if ($this->options->car !== null) {
-            $this->cars = [...array_filter($this->cars, function ($car) {
-                return preg_replace('/[^a-z]/','', strtolower($car->type)) === $this->options->car;
-            })];
+            $this->cars = [...array_filter($this->cars, fn($car) => preg_replace('/[^a-z]/','', strtolower((string) $car->type)) === $this->options->car)];
 
             $collectedCarTypes = [];
-            array_walk($this->cars, function ($car) use (&$collectedCarTypes) {
+            array_walk($this->cars, function ($car) use (&$collectedCarTypes): void {
                 $collectedCarTypes = array_unique([...$collectedCarTypes, ...$car->configs]);
             });
 
-            array_walk($this->tracks, function ($track) use (&$collectedCarTypes) {
-                $track->configs = [...array_filter($track->configs, function ($trackConfig) use ($collectedCarTypes) {
-                    return in_array($trackConfig->type, $collectedCarTypes);
-                })];
+            array_walk($this->tracks, function ($track) use (&$collectedCarTypes): void {
+                $track->configs = [...array_filter($track->configs, fn($trackConfig) => in_array($trackConfig->type, $collectedCarTypes))];
             });
-            $this->tracks = [...array_filter($this->tracks, function ($track) { return !empty($track->configs); })];
+            $this->tracks = [...array_filter($this->tracks, fn($track) => !empty($track->configs))];
         }
 
         if ($this->options->allowUnusualConfigs) {
-            array_walk($this->cars, function ($car) {
+            array_walk($this->cars, function ($car): void {
                 /** @var Car $car */
                 $car->setUseUnusualConfigs(true);
             });
